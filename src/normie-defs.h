@@ -1,0 +1,3 @@
+
+#define BUFFER_SIZE 819200
+#define MAX_JSON_SIZE 1638400
