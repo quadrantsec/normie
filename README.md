@@ -70,7 +70,6 @@ The idea is that you can use this tool to create small indexes of log data.  For
 say you have a directory of log files based on timestamp, like this:
 
 <pre>
-<pre>
 -rw-r--r-- 1 root root 297977 Dec 26 23:59 10.22.3.110-20221226.log.gz
 -rw-r--r-- 1 root root 292392 Dec 27 23:59 10.22.3.110-20221227.log.gz
 -rw-r--r-- 1 root root 295880 Dec 28 23:59 10.22.3.110-20221228.log.gz
